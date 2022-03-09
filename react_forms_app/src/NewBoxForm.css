@@ -1,0 +1,10 @@
+.NewBoxForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+}
+
+.NewBoxFormInput {
+  padding: 3px;
+}
